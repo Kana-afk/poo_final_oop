@@ -13,7 +13,6 @@ public class ChocolateSyrup extends CoffeeDecorator {
     }
 
     private double addChocolateSyrup() {
-//        System.out.println(" + Chocolate Syrup: $1.00");
         return cost;
     }
 
