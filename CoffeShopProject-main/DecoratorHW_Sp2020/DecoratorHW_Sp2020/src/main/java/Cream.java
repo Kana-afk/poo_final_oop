@@ -12,7 +12,6 @@ public class Cream extends CoffeeDecorator{
 	
 	private double addCream() {
 		
-//		System.out.println(" + cream: $.50");
 		
 		return cost;
 	}
