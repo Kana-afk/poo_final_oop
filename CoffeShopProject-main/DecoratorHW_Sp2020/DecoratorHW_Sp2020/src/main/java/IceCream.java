@@ -12,7 +12,6 @@ public class IceCream extends CoffeeDecorator{
     }
 
     private double addIceCream() {
-//        System.out.println(" + IceCream: $1.50");
         return cost;
     }
 
