@@ -27,9 +27,9 @@ public class CoffeeShop extends Application {
 
 	Coffee order;
 
-	Button item1, item2, item3, item4, item5; // Represent Each of the 5 toppings // ExtraShot, Cream, Sugar, ChocolateSyrup, IceCream
-	Button startOrder, deleteOrder, finishOrder; // start, delete, finish the order
-	TextField totalCost = new TextField("Welcome to Aryan's Coffee Shop!"); //Message Bar that display's Cost While Building the order
+	Button item1, item2, item3, item4, item5; 
+	Button startOrder, deleteOrder, finishOrder; 
+	TextField totalCost = new TextField("Welcome to Aryan's Coffee Shop!"); 
 
 	TextArea output = new TextArea("Try out the Most Amazing:\n" +
 			"Black Coffee: $3.99\n" +
