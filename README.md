@@ -1,5 +1,7 @@
 # poo_final_oop
 
+Program is about coffee shop.
+
 ![](https://github.com/Kana-afk/poo_final_oop/blob/main/CoffeShopProject-main/CoffeeShop-1.jpg)
 
 
