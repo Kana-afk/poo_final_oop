@@ -12,7 +12,7 @@
 ![](https://github.com/Kana-afk/poo_final_oop/blob/main/CoffeShopProject-main/CoffeeShop-4.jpg)
 
 
-Made by:
+# Made by:
 Baygeldiev Samat
 Zhoomartbek uulu Kantemir
 <a href="https://github.com/Kana-afk/poo_final_oop/graphs/contributors">
