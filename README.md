@@ -1,6 +1,8 @@
 # poo_final_oop
 
-Program is about coffee shop.
+# Description
+
+Program is about coffee shop. Here you can choose any coffee and add any ingredients.
 
 ![](https://github.com/Kana-afk/poo_final_oop/blob/main/CoffeShopProject-main/CoffeeShop-1.jpg)
 
