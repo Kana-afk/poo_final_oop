@@ -16,9 +16,9 @@ Program is about coffee shop. Here you can choose any coffee and add any ingredi
 ![](https://github.com/Kana-afk/poo_final_oop/blob/main/CoffeShopProject-main/CoffeeShop-4.jpg)
 
 # Feedback:
-[video1]()
+[video1](https://drive.google.com/file/d/1H0Jx_zDOvwjsASit__i4FDBkfcPB2yAf/view?usp=sharing)
 
-[video2]()
+[video2](https://drive.google.com/file/d/1EP595AznATzyL23JdBtGIw_pz1PATNyg/view?usp=sharing)
 
 # Made by:
 
